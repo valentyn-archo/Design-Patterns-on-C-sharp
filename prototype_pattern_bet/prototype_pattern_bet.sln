@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prototype_pattern_bet", "prototype_pattern_bet\prototype_pattern_bet.csproj", "{AA1E946C-0224-405A-84BC-BBB2E1D86C36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA1E946C-0224-405A-84BC-BBB2E1D86C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1E946C-0224-405A-84BC-BBB2E1D86C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1E946C-0224-405A-84BC-BBB2E1D86C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1E946C-0224-405A-84BC-BBB2E1D86C36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {122239FB-AA53-43BF-99E3-80DE952D5359}
+	EndGlobalSection
+EndGlobal

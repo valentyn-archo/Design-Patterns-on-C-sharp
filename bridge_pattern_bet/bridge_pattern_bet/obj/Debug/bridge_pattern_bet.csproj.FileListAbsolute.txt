@@ -1,0 +1,6 @@
+C:\Users\llpoctak\Desktop\Патерни С#\bridge_pattern_bet\bridge_pattern_bet\bin\Debug\bridge_pattern_bet.exe.config
+C:\Users\llpoctak\Desktop\Патерни С#\bridge_pattern_bet\bridge_pattern_bet\bin\Debug\bridge_pattern_bet.exe
+C:\Users\llpoctak\Desktop\Патерни С#\bridge_pattern_bet\bridge_pattern_bet\bin\Debug\bridge_pattern_bet.pdb
+C:\Users\llpoctak\Desktop\Патерни С#\bridge_pattern_bet\bridge_pattern_bet\obj\Debug\bridge_pattern_bet.csproj.CoreCompileInputs.cache
+C:\Users\llpoctak\Desktop\Патерни С#\bridge_pattern_bet\bridge_pattern_bet\obj\Debug\bridge_pattern_bet.exe
+C:\Users\llpoctak\Desktop\Патерни С#\bridge_pattern_bet\bridge_pattern_bet\obj\Debug\bridge_pattern_bet.pdb

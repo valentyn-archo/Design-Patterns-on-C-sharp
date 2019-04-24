@@ -1,0 +1,7 @@
+C:\Users\llpoctak\Desktop\Патерни С#\pattern_abstract_fabric_bet\pattern_abstract_fabric_bet\bin\Debug\pattern_abstract_fabric_bet.exe.config
+C:\Users\llpoctak\Desktop\Патерни С#\pattern_abstract_fabric_bet\pattern_abstract_fabric_bet\bin\Debug\pattern_abstract_fabric_bet.exe
+C:\Users\llpoctak\Desktop\Патерни С#\pattern_abstract_fabric_bet\pattern_abstract_fabric_bet\bin\Debug\pattern_abstract_fabric_bet.pdb
+C:\Users\llpoctak\Desktop\Патерни С#\pattern_abstract_fabric_bet\pattern_abstract_fabric_bet\obj\Debug\pattern_abstract_fabric_bet.csprojAssemblyReference.cache
+C:\Users\llpoctak\Desktop\Патерни С#\pattern_abstract_fabric_bet\pattern_abstract_fabric_bet\obj\Debug\pattern_abstract_fabric_bet.csproj.CoreCompileInputs.cache
+C:\Users\llpoctak\Desktop\Патерни С#\pattern_abstract_fabric_bet\pattern_abstract_fabric_bet\obj\Debug\pattern_abstract_fabric_bet.exe
+C:\Users\llpoctak\Desktop\Патерни С#\pattern_abstract_fabric_bet\pattern_abstract_fabric_bet\obj\Debug\pattern_abstract_fabric_bet.pdb

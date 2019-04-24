@@ -1,0 +1,6 @@
+C:\Users\llpoctak\Desktop\Патерни С#\proxy_pattern_bet\proxy_pattern_bet\bin\Debug\proxy_pattern_bet.exe.config
+C:\Users\llpoctak\Desktop\Патерни С#\proxy_pattern_bet\proxy_pattern_bet\bin\Debug\proxy_pattern_bet.exe
+C:\Users\llpoctak\Desktop\Патерни С#\proxy_pattern_bet\proxy_pattern_bet\bin\Debug\proxy_pattern_bet.pdb
+C:\Users\llpoctak\Desktop\Патерни С#\proxy_pattern_bet\proxy_pattern_bet\obj\Debug\proxy_pattern_bet.csproj.CoreCompileInputs.cache
+C:\Users\llpoctak\Desktop\Патерни С#\proxy_pattern_bet\proxy_pattern_bet\obj\Debug\proxy_pattern_bet.exe
+C:\Users\llpoctak\Desktop\Патерни С#\proxy_pattern_bet\proxy_pattern_bet\obj\Debug\proxy_pattern_bet.pdb

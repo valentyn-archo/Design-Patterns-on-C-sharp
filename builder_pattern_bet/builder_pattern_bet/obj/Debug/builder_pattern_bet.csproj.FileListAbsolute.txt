@@ -1,0 +1,7 @@
+C:\Users\llpoctak\Desktop\Патерни С#\builder_pattern_bet\builder_pattern_bet\obj\Debug\builder_pattern_bet.csprojAssemblyReference.cache
+C:\Users\llpoctak\Desktop\Патерни С#\builder_pattern_bet\builder_pattern_bet\obj\Debug\builder_pattern_bet.csproj.CoreCompileInputs.cache
+C:\Users\llpoctak\Desktop\Патерни С#\builder_pattern_bet\builder_pattern_bet\bin\Debug\builder_pattern_bet.exe.config
+C:\Users\llpoctak\Desktop\Патерни С#\builder_pattern_bet\builder_pattern_bet\bin\Debug\builder_pattern_bet.exe
+C:\Users\llpoctak\Desktop\Патерни С#\builder_pattern_bet\builder_pattern_bet\bin\Debug\builder_pattern_bet.pdb
+C:\Users\llpoctak\Desktop\Патерни С#\builder_pattern_bet\builder_pattern_bet\obj\Debug\builder_pattern_bet.exe
+C:\Users\llpoctak\Desktop\Патерни С#\builder_pattern_bet\builder_pattern_bet\obj\Debug\builder_pattern_bet.pdb
