@@ -1,0 +1,7 @@
+C:\Users\llpoctak\source\repos\observer_pattern\observer_pattern\obj\Debug\observer_pattern.csprojAssemblyReference.cache
+C:\Users\llpoctak\source\repos\observer_pattern\observer_pattern\obj\Debug\observer_pattern.csproj.CoreCompileInputs.cache
+C:\Users\llpoctak\source\repos\observer_pattern\observer_pattern\bin\Debug\observer_pattern.exe.config
+C:\Users\llpoctak\source\repos\observer_pattern\observer_pattern\bin\Debug\observer_pattern.exe
+C:\Users\llpoctak\source\repos\observer_pattern\observer_pattern\bin\Debug\observer_pattern.pdb
+C:\Users\llpoctak\source\repos\observer_pattern\observer_pattern\obj\Debug\observer_pattern.exe
+C:\Users\llpoctak\source\repos\observer_pattern\observer_pattern\obj\Debug\observer_pattern.pdb

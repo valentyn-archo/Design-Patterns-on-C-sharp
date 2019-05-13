@@ -1,0 +1,7 @@
+C:\Users\llpoctak\source\repos\mediator_pattern\mediator_pattern\obj\Debug\mediator_pattern.csproj.CoreCompileInputs.cache
+C:\Users\llpoctak\source\repos\mediator_pattern\mediator_pattern\bin\Debug\mediator_pattern.exe.config
+C:\Users\llpoctak\source\repos\mediator_pattern\mediator_pattern\bin\Debug\mediator_pattern.exe
+C:\Users\llpoctak\source\repos\mediator_pattern\mediator_pattern\bin\Debug\mediator_pattern.pdb
+C:\Users\llpoctak\source\repos\mediator_pattern\mediator_pattern\obj\Debug\mediator_pattern.csprojAssemblyReference.cache
+C:\Users\llpoctak\source\repos\mediator_pattern\mediator_pattern\obj\Debug\mediator_pattern.exe
+C:\Users\llpoctak\source\repos\mediator_pattern\mediator_pattern\obj\Debug\mediator_pattern.pdb

@@ -1,0 +1,7 @@
+C:\Users\llpoctak\source\repos\command_pattern\command_pattern\bin\Debug\command_pattern.exe.config
+C:\Users\llpoctak\source\repos\command_pattern\command_pattern\bin\Debug\command_pattern.exe
+C:\Users\llpoctak\source\repos\command_pattern\command_pattern\bin\Debug\command_pattern.pdb
+C:\Users\llpoctak\source\repos\command_pattern\command_pattern\obj\Debug\command_pattern.csprojAssemblyReference.cache
+C:\Users\llpoctak\source\repos\command_pattern\command_pattern\obj\Debug\command_pattern.csproj.CoreCompileInputs.cache
+C:\Users\llpoctak\source\repos\command_pattern\command_pattern\obj\Debug\command_pattern.exe
+C:\Users\llpoctak\source\repos\command_pattern\command_pattern\obj\Debug\command_pattern.pdb

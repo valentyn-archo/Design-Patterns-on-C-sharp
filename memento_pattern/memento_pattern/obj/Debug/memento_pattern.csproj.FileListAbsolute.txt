@@ -1,0 +1,7 @@
+C:\Users\llpoctak\source\repos\memento_pattern\memento_pattern\bin\Debug\memento_pattern.exe.config
+C:\Users\llpoctak\source\repos\memento_pattern\memento_pattern\bin\Debug\memento_pattern.exe
+C:\Users\llpoctak\source\repos\memento_pattern\memento_pattern\bin\Debug\memento_pattern.pdb
+C:\Users\llpoctak\source\repos\memento_pattern\memento_pattern\obj\Debug\memento_pattern.csprojAssemblyReference.cache
+C:\Users\llpoctak\source\repos\memento_pattern\memento_pattern\obj\Debug\memento_pattern.csproj.CoreCompileInputs.cache
+C:\Users\llpoctak\source\repos\memento_pattern\memento_pattern\obj\Debug\memento_pattern.exe
+C:\Users\llpoctak\source\repos\memento_pattern\memento_pattern\obj\Debug\memento_pattern.pdb

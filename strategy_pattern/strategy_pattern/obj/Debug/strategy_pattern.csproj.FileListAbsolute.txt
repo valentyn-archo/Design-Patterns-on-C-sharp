@@ -1,0 +1,7 @@
+C:\Users\llpoctak\source\repos\strategy_pattern\strategy_pattern\bin\Debug\strategy_pattern.exe.config
+C:\Users\llpoctak\source\repos\strategy_pattern\strategy_pattern\bin\Debug\strategy_pattern.exe
+C:\Users\llpoctak\source\repos\strategy_pattern\strategy_pattern\bin\Debug\strategy_pattern.pdb
+C:\Users\llpoctak\source\repos\strategy_pattern\strategy_pattern\obj\Debug\strategy_pattern.csprojAssemblyReference.cache
+C:\Users\llpoctak\source\repos\strategy_pattern\strategy_pattern\obj\Debug\strategy_pattern.csproj.CoreCompileInputs.cache
+C:\Users\llpoctak\source\repos\strategy_pattern\strategy_pattern\obj\Debug\strategy_pattern.exe
+C:\Users\llpoctak\source\repos\strategy_pattern\strategy_pattern\obj\Debug\strategy_pattern.pdb

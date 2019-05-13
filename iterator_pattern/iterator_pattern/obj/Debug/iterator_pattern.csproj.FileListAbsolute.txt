@@ -1,0 +1,7 @@
+C:\Users\llpoctak\source\repos\iterator_pattern\iterator_pattern\bin\Debug\iterator_pattern.exe.config
+C:\Users\llpoctak\source\repos\iterator_pattern\iterator_pattern\bin\Debug\iterator_pattern.exe
+C:\Users\llpoctak\source\repos\iterator_pattern\iterator_pattern\bin\Debug\iterator_pattern.pdb
+C:\Users\llpoctak\source\repos\iterator_pattern\iterator_pattern\obj\Debug\iterator_pattern.csprojAssemblyReference.cache
+C:\Users\llpoctak\source\repos\iterator_pattern\iterator_pattern\obj\Debug\iterator_pattern.csproj.CoreCompileInputs.cache
+C:\Users\llpoctak\source\repos\iterator_pattern\iterator_pattern\obj\Debug\iterator_pattern.exe
+C:\Users\llpoctak\source\repos\iterator_pattern\iterator_pattern\obj\Debug\iterator_pattern.pdb

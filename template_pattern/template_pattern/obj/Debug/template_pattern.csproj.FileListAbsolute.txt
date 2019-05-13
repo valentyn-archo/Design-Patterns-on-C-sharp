@@ -1,0 +1,7 @@
+C:\Users\llpoctak\source\repos\template_pattern\template_pattern\bin\Debug\template_pattern.exe.config
+C:\Users\llpoctak\source\repos\template_pattern\template_pattern\bin\Debug\template_pattern.exe
+C:\Users\llpoctak\source\repos\template_pattern\template_pattern\bin\Debug\template_pattern.pdb
+C:\Users\llpoctak\source\repos\template_pattern\template_pattern\obj\Debug\template_pattern.csprojAssemblyReference.cache
+C:\Users\llpoctak\source\repos\template_pattern\template_pattern\obj\Debug\template_pattern.csproj.CoreCompileInputs.cache
+C:\Users\llpoctak\source\repos\template_pattern\template_pattern\obj\Debug\template_pattern.exe
+C:\Users\llpoctak\source\repos\template_pattern\template_pattern\obj\Debug\template_pattern.pdb
